@@ -1,31 +1,22 @@
-# E_commerce
+# E-Commerce Website
 
-## Project Description
-A fully responsive e-commerce platform designed to showcase a wide range of products, including clothing, shoes, and hats. The website includes essential features like:
+This is a fully responsive e-commerce platform built to display a wide variety of products including clothing, shoes, and hats. The website features user authentication and product organization for an intuitive shopping experience.
 
-Login: Secure user login and account management
+## Features
 
-Home: Dynamic homepage featuring highlighted products and promotions
+- **Login**: Secure user login and account management.
+- **Home**: Dynamic homepage showcasing featured products and promotions.
+- **Category**: Browse products by category (e.g., Clothing, Shoes, Hats).
+- **All Products**: Full product catalog with filtering and search functionality.
+- **About Us**: Information about the brand and our mission.
 
-Category: Organized product categories for easy browsing
+## Technologies Used
 
-All Products: A comprehensive product listing with search and filter options
-
-About Us: Information about the brand, mission, and values
-
-Built using:
-
-HTML
-
-CSS
-
-JavaScript
-
-PHP
-
-Bootstrap
-
-This platform is designed with a user-friendly interface and optimized for both mobile and desktop experiences.
+- **HTML** – Markup for the structure of the site.
+- **CSS** – Styling to create a responsive and modern design.
+- **JavaScript** – For dynamic interactivity and front-end functionality.
+- **PHP** – Backend for handling user authentication and data management.
+- **Bootstrap** – Framework for building responsive, mobile-first web pages.
 
 ## Development Tools 
 
